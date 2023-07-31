@@ -29,7 +29,7 @@ Developed a cutting-edge web application utilizing deep learning and computer vi
 
 ### 2. Website Development (www.dealbnao.com)
 
-Collaborated with a friend to develop the client website 'www.dealbnao.com' using WordPress. Customized the backend of the theme and classified listing plugin to meet specific requirements. Implemented user account customization for 'customer', 'agent', and 'company' roles. Created a targeted listing feature for agents and companies, improving credibility and quality. Resulted in a fully functional and tailored website for real estate transactions.
+Collaborated with a friend to develop the client website 'www.dealbnao.com' using WordPress. Customized the backend of the theme and classified the listing plugin to meet specific requirements. Implemented user account customization for 'customer', 'agent', and 'company' roles. Created a targeted listing feature for agents and companies, improving credibility and quality. Resulted in a fully functional and tailored website for real estate transactions.
 
 ## Education
 
@@ -47,3 +47,4 @@ Collaborated with a friend to develop the client website 'www.dealbnao.com' usin
 - 📞 Phone 1: +92 349-7562001
 - 📞 Phone 2: +92 344-5162050
 
+## Download CV(Mohsan Yaseen.pdf) 
