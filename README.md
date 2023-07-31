@@ -47,4 +47,3 @@ Collaborated with a friend to develop the client website 'www.dealbnao.com' usin
 - 📞 Phone 1: +92 349-7562001
 - 📞 Phone 2: +92 344-5162050
 
-## Download CV(Mohsan Yaseen.pdf) 
