@@ -1,6 +1,6 @@
 # MOHSAN YASEEN - Python/Backend Developer
 
-![Profile Banner]([link-to-your-profile-banner-image](https://github.com/Mohsan57/Mohsan57/blob/27d42954d47c84b9758ac75a1fdc8aecbfecdd2e/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png))
+![Profile Banner](https://github.com/Mohsan57/Mohsan57/blob/27d42954d47c84b9758ac75a1fdc8aecbfecdd2e/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 ## About Me
 
