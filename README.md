@@ -6,7 +6,6 @@
 
 I am a passionate Software Engineer with experience in Python and Backend Development. I love solving complex problems and contributing to innovative solutions. My expertise extends to NLP, ML, and Computer Vision technologies.
 
-- 🌐 Portfolio: [Your Portfolio Website](https://your-portfolio-website.com)
 - 📧 Email: mohsanyaseen.dev@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohsan-yaseen)
 - 🐙 GitHub: [GitHub Profile](https://github.com/Mohsan57)
