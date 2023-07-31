@@ -1,10 +1,10 @@
 # MOHSAN YASEEN - Python/Backend Developer
 
-![Profile Banner](link-to-your-profile-banner-image)
+![Profile Banner]([link-to-your-profile-banner-image](https://github.com/Mohsan57/Mohsan57/blob/27d42954d47c84b9758ac75a1fdc8aecbfecdd2e/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png))
 
 ## About Me
 
-I am a passionate Software Engineer with experience in Python and Backend Development. I love solving complex problems and contributing to innovative solutions. My expertise extends to NLP, ML, and Computer Vision technologies.
+I am a passionate Software Engineer with experience in Python and Backend Development. I love solving complex problems and contribuzting to innovative solutions. My expertise extends to NLP, ML, and Computer Vision technologies.
 
 - 📧 Email: mohsanyaseen.dev@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohsan-yaseen)
