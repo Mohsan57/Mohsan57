@@ -23,13 +23,13 @@ I am a passionate Software Engineer with experience in Python and Backend Develo
 
 ### 1. FYP (Surveillance System)
 
-Developed a cutting-edge web application utilizing deep learning and computer vision technologies to enable real-time tracking and re-identification of individuals in videos and live camera feeds. Deployed on Google Cloud Compute Engine. Utilized Python, GCP, HTML, CSS, and JavaScript to create an immersive user experience and facilitate seamless surveillance operations.
+Developed a cutting-edge web application utilizing deep learning and computer vision technologies to enable real-time tracking and re-identification of individuals in videos and live camera feeds. Deployed on Google Cloud Compute Engine. Used Python, GCP, HTML, CSS, and JavaScript to create an immersive user experience and facilitate seamless surveillance operations.
 
 - 🌐 **API Link**: [Campus Surveillance System](http://ipfypcms.ddns.net)
 
 ### 2. Website Development (www.dealbnao.com)
 
-Collaborated with a friend to develop the client website 'www.dealbnao.com' using WordPress. Customized the backend of the theme and classified the listing plugin to meet specific requirements. Implemented user account customization for 'customer', 'agent', and 'company' roles. Created a targeted listing feature for agents and companies, improving credibility and quality. Resulted in a fully functional and tailored website for real estate transactions.
+Collaborated with a friend to develop the client website 'www.dealbnao.com' using WordPress. Customized the theme's backend and classified the listing plugin to meet specific requirements. Implemented user account customization for 'customer', 'agent', and 'company' roles. Created a targeted listing feature for agents and companies, improving credibility and quality. Resulted in a fully functional and tailored website for real estate transactions.
 
 ## Education
 
@@ -39,7 +39,7 @@ Collaborated with a friend to develop the client website 'www.dealbnao.com' usin
 ## Achievements
 
 - 🏆 AIEF 1st National AI Championship (Jul-2023):
-  - Selected as one of the top 30 AI projects out of 200 at the AI Championship organized by LUMS University, FAST University, Soliton Technologies, and the Artificial Intelligence Education Foundation.
+  - Selected as among the top 30 AI projects out of 200 at the AI Championship organized by LUMS University, FAST University, Soliton Technologies, and the Artificial Intelligence Education Foundation.
   - Awarded a certificate for outstanding participation and performance in the competition.
 
 ## Contact
@@ -47,3 +47,5 @@ Collaborated with a friend to develop the client website 'www.dealbnao.com' usin
 - 📞 Phone 1: +92 349-7562001
 - 📞 Phone 2: +92 344-5162050
 
+## Resume 
+**Download [Campus Surveillance System](cv.pdf)**
