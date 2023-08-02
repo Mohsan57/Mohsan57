@@ -1,6 +1,6 @@
 # MOHSAN YASEEN - Python/Backend Developer
 
-![Profile Banner](Navy Blue Geometric Technology LinkedIn Banner.png)
+![Profile Banner](banner.png)
 
 ## About Me
 
