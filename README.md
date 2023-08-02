@@ -48,4 +48,4 @@ Collaborated with a friend to develop the client website 'www.dealbnao.com' usin
 - 📞 Phone 2: +92 344-5162050
 
 ## Resume 
-**Download [Campus Surveillance System](cv.pdf)**
+**[Download](cv.pdf)**
