@@ -1,58 +1,30 @@
-# MOHSAN YASEEN - Python/Backend Developer
+# 💫 About Me:
+Experienced Python/Backend Developer with a passion for crafting innovative solutions. Adept at turning complex challenges into elegant, efficient code. Specialized in automation, data extraction, and API development. Proven track record in seamlessly integrating diverse technologies to drive project success. Committed to delivering high-quality software solutions and eager to contribute to cutting-edge projects in a dynamic work environment.
 
-![Profile Banner](banner.png)
 
-## About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohsan__yaseen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohsan-yaseen) 
 
-I am a passionate Software Engineer with experience in Python and Backend Development. I love solving complex problems and contributing to innovative solutions. My expertise extends to NLP, ML, and Computer Vision technologies.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohsan57&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohsan57&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsan57&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📧 Email: mohsanyaseen.dev@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohsan-yaseen)
-- 🐙 GitHub: [GitHub Profile](https://github.com/Mohsan57)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohsan57&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## Technical Skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- Python (FastAPI, Django)
-- Java (Swing, JavaFX)
-- PHP (Laravel)
-- Rest APIs
-- NLP/ ML / Computer Vision
-- Database Design (Oracle)
-- Git
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohsan57&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-## Projects
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### 1. FYP (Surveillance System)
+---
+[![](https://visitcount.itsvg.in/api?id=mohsan57&icon=1&color=0)](https://visitcount.itsvg.in)
 
-Developed a cutting-edge web application utilizing deep learning and computer vision technologies to enable real-time tracking and re-identification of individuals in videos and live camera feeds. Deployed on Google Cloud Compute Engine. Used Python, GCP, HTML, CSS, and JavaScript to create an immersive user experience and facilitate seamless surveillance operations.
-
-- 🌐 **API Link**: [Campus Surveillance System](http://ipfypcms.ddns.net)
-
-### 2. Website Development (www.dealbnao.com)
-
-Collaborated with a friend to develop the client website 'www.dealbnao.com' using WordPress. Customized the theme's backend and classified the listing plugin to meet specific requirements. Implemented user account customization for 'customer', 'agent', and 'company' roles. Created a targeted listing feature for agents and companies, improving credibility and quality. Resulted in a fully functional and tailored website for real estate transactions.
-
-### 3. Java (Swing) and SQL Project
-
-I created the University Management System using Java Swing and connected it to the MS SQL server. In this Project, the entities are Admin, HOD, Teacher, and Students.
-
-- 🌐 **Link**: [GitHub Repository](https://github.com/Mohsan57/University-Management-System-using-Java-Swing)
-
-## Education
-
-- 🎓 BS Software Engineering, The University of Lahore (UOL), Sep-19 to Jul-23, CGPA: 3.05
-- 🎓 Intermediate in Computer Science, Punjab Group of Colleges Gujranwala (PGC), Jul-17 to May-19
-
-## Achievements
-
-- 🏆 AIEF 1st National AI Championship (Jul-2023):
-  - Selected as among the top 30 AI projects out of 200 at the AI Championship organized by LUMS University, FAST University, Soliton Technologies, and the Artificial Intelligence Education Foundation.
-  - Awarded a certificate for outstanding participation and performance in the competition.
-
-## Contact
-
-- 📞 Phone 1: +92 3497562001
-- 📞 Phone 2: +92 3445162050
-
-## Resume 
-**[Download](cv.pdf)**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
