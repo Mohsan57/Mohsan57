@@ -19,7 +19,7 @@ Experienced Python/Backend Developer with a passion for crafting innovative solu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohsan57&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mohsan57&limit=3&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
